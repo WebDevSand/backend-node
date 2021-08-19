@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "CLA to display products to customer and have customer order the products they want",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maike-hilda/bamazon.git"
+  },
+  "author": "Maike Scherer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maike-hilda/bamazon/issues"
+  },
+  "homepage": "https://github.com/maike-hilda/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "mysql": "^2.15.0"
+  }
+}
